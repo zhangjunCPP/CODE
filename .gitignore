@@ -1,0 +1,5 @@
+
+*.json
+*.DB
+.vscode/.BROWSE.VC.DB
+.vscode/c_cpp_properties.json
